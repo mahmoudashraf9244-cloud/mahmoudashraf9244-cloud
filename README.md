@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Ashraf 👋
 
-<!--
-**mahmoudashraf9244-cloud/mahmoudashraf9244-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and full-stack web developer focused on building practical, accessible web applications.
 
-Here are some ideas to get you started:
+## Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Python, Django, Node.js
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Data & deployment:** PostgreSQL, SQLite, Git, GitHub Actions, Vercel
+- **UI:** Responsive design, dark mode, Arabic/English interfaces, RTL support
+
+## Featured project
+
+### Beni-Suef University Courses & Activities Portal
+
+A bilingual Django portal where students can explore courses and activities, create an account, enroll safely, and manage their profile. It includes Arabic/English support, responsive design, dark mode, animations, secure enrollment workflows, PostgreSQL in production, and automated tests.
+
+- [Live demo](https://beni-suef-university-portal.vercel.app/)
+- [Source code](https://github.com/mahmoudashraf9244-cloud/beni-suef-university-portal)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mahmoud9244)
