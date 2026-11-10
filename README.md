@@ -1,23 +1,41 @@
-# Hi, I'm Mahmoud Ashraf 👋
+# Mahmoud Ashraf
 
-Computer Science student and full-stack web developer focused on building practical, accessible web applications.
+**Computer Science student & software developer**
 
-## Tech I work with
+I build practical web applications with JavaScript, Python, and Django, with a focus on responsive interfaces, reliable application logic, and Arabic/English experiences.
 
-- **Backend:** Python, Django, Node.js
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Data & deployment:** PostgreSQL, SQLite, Git, GitHub Actions, Vercel
-- **UI:** Responsive design, dark mode, Arabic/English interfaces, RTL support
+**[View my portfolio](https://mahmoudashraf9244-cloud.github.io/portfolio/)** | [LinkedIn](https://www.linkedin.com/in/mahmoud9244)
 
-## Featured project
+## Featured projects
+
+### Personal Portfolio
+
+A bilingual portfolio presenting my projects, technical skills, education, and contact information. Built with HTML, CSS, and JavaScript, with RTL support, keyboard-friendly navigation, reduced-motion support, and deployment through GitHub Actions and GitHub Pages.
+
+**[Live demo](https://mahmoudashraf9244-cloud.github.io/portfolio/)** | [Source code](https://github.com/mahmoudashraf9244-cloud/portfolio)
 
 ### Beni-Suef University Courses & Activities Portal
 
-A bilingual Django portal where students can explore courses and activities, create an account, enroll safely, and manage their profile. It includes Arabic/English support, responsive design, dark mode, animations, secure enrollment workflows, PostgreSQL in production, and automated tests.
+A Django application for exploring university courses and activities, creating student accounts, and managing enrollment. Features include Arabic/English interfaces, protected profiles, search and filters, capacity and duplicate-enrollment checks, and PostgreSQL in production.
 
-- [Live demo](https://beni-suef-university-portal.vercel.app/)
-- [Source code](https://github.com/mahmoudashraf9244-cloud/beni-suef-university-portal)
+**[Live demo](https://beni-suef-university-portal.vercel.app/)** | [Source code](https://github.com/mahmoudashraf9244-cloud/beni-suef-university-portal)
 
-## Connect
+### TeamDesk - Employee Management Dashboard
 
-- [LinkedIn](https://www.linkedin.com/in/mahmoud9244)
+A responsive dashboard with employee CRUD flows, search, role filters, sorting, pagination, reports, and CSV export. Uses DummyJSON for API demonstrations and browser storage to preserve local changes.
+
+**[Live demo](https://mahmoudashraf9244-cloud.github.io/portfolio/projects/teamdesk/)** | [Source code](https://github.com/mahmoudashraf9244-cloud/portfolio/tree/main/dist/projects/teamdesk)
+
+## Skills
+
+- **Frontend:** JavaScript, HTML, CSS, Bootstrap, responsive design, accessibility, and RTL layouts.
+- **Backend & data:** Python, Django, PostgreSQL, SQLite, and REST API integration.
+- **Tools & deployment:** Git, GitHub, GitHub Actions, GitHub Pages, and Vercel.
+- **Currently learning:** React, TypeScript, Node.js, and Express.
+
+## Let's connect
+
+Open to internships, junior software development opportunities, and focused freelance projects.
+
+- **Portfolio:** https://mahmoudashraf9244-cloud.github.io/portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/mahmoud9244
